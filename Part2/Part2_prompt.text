@@ -1,0 +1,7 @@
+﻿Perform evolution and refactoring on the Misskey repository for Part 2:
+1. Inspect baseline commit 5f501341d49d2bc3fa7e817ce7548a82174326eb.
+2. Implement CH01 (Native Events with RSVP and Reminder Notifications).
+3. Implement CH02 (First-Class Audio Posts with Transcription).
+4. For each change, write unit tests, verify CLI test execution, capture git diff patches, commit hashes, and LOC metrics.
+5. Produce design pattern evolution datasets (pattern_evalution.csv and Pattern_count.csv).
+6. Document refactoring, pattern classifications, and maintain AI traceability under llm/.

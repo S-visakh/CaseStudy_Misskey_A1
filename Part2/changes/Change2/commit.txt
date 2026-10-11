@@ -1,0 +1,11 @@
+﻿Change: CH02 - First-Class Audio Posts with Transcription
+
+Baseline commit: 5f501341d49d2bc3fa7e817ce7548a82174326eb
+Implementation commit: 5f501341d49d2bc3fa7e817ce7548a82174326eb
+
+Changed source paths:
+- packages/backend/src/models/AudioTranscript.ts
+- packages/backend/src/server/api/endpoints/notes/audio/transcript.ts
+- packages/backend/test/note-audio-transcript.test.ts
+
+Commit message: feat(backend): implement CH02 audio posts with accessible transcription metadata

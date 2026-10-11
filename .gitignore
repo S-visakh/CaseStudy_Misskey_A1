@@ -1,0 +1,7 @@
+﻿node_modules/
+built/
+dist/
+.turbo/
+.cache/
+Thumbs.db
+Desktop.ini

@@ -1,0 +1,3 @@
+﻿part,model_and_date,prompt_file,input_file,output_file,evaluation,verification_file
+Evolution,"Gemini, 2026-10-10",Part2/llm/inputs/Change1_prompt.txt,Part2/llm/inputs/Change1_context.md,Part2/llm/outputs/Change1_output.txt,Correct,Part2/llm/verification/Change1_verification.md
+Evolution,"Gemini, 2026-10-10",Part2/llm/inputs/Change2_prompt.txt,Part2/llm/inputs/Change2_context.md,Part2/llm/outputs/Change2_output.txt,Correct,Part2/llm/verification/Change2_verification.md

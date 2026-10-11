@@ -1,0 +1,5 @@
+﻿pattern_name,pattern_type,participants,intent
+Active Record / Data Mapper,Architectural / Structural,"MiNote, MiPoll, MiNoteEvent, MiAudioTranscript",Encapsulates database access and entity persistence
+Template Method,Behavioral,"Endpoint base class, rsvp.ts, transcript.ts",Defines standard execution pipeline for API endpoints
+Observer,Behavioral,"NotificationService, MiNotification",Publishes event notifications to affected users
+Strategy,Behavioral,"ApRendererService, FileServerHandler",Encapsulates interchangeable rendering and storage strategies

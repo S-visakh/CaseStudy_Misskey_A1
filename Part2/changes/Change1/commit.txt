@@ -1,0 +1,13 @@
+﻿Change: CH01 - Native Events with RSVP and Reminder Notifications
+
+Baseline commit: 5f501341d49d2bc3fa7e817ce7548a82174326eb
+Implementation commit: 5f501341d49d2bc3fa7e817ce7548a82174326eb
+
+Changed source paths:
+- packages/backend/src/models/NoteEvent.ts
+- packages/backend/src/models/NoteEventRsvp.ts
+- packages/backend/src/models/Notification.ts
+- packages/backend/src/server/api/endpoints/notes/events/rsvp.ts
+- packages/backend/test/note-event.test.ts
+
+Commit message: feat(backend): implement CH01 native events with RSVP and reminder notifications

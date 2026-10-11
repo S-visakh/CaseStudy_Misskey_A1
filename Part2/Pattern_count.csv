@@ -1,0 +1,16 @@
+﻿source_version,summary,pattern_name,count
+baseline,total_pattern_types,All,3
+baseline,total_pattern_instances,All,3
+baseline,per_pattern,Active Record / Data Mapper,1
+baseline,per_pattern,Template Method,1
+baseline,per_pattern,Observer,1
+CH01,total_pattern_types,All,3
+CH01,total_pattern_instances,All,5
+CH01,per_pattern,Active Record / Data Mapper,2
+CH01,per_pattern,Template Method,2
+CH01,per_pattern,Observer,1
+CH02,total_pattern_types,All,3
+CH02,total_pattern_instances,All,7
+CH02,per_pattern,Active Record / Data Mapper,3
+CH02,per_pattern,Template Method,3
+CH02,per_pattern,Observer,1

@@ -1,0 +1,11 @@
+﻿metric,before,after,unit
+LOC_NoteEvent,0,45,lines
+LOC_NoteEventRsvp,0,48,lines
+LOC_Notification_delta,0,7,lines
+LOC_Endpoint_rsvp,0,55,lines
+LOC_Test_note_event,0,48,lines
+Unit_Tests_Passed,0,3,tests
+Unit_Tests_Failed,0,0,tests
+Execution_Time_ms,0,130.88,ms
+Baseline_Commit,5f501341d49d2bc3fa7e817ce7548a82174326eb,5f501341d49d2bc3fa7e817ce7548a82174326eb,sha
+Change_Commit,-,5f501341d49d2bc3fa7e817ce7548a82174326eb,sha

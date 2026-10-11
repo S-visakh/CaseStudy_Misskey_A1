@@ -1,0 +1,9 @@
+﻿metric,before,after,unit
+LOC_AudioTranscript,0,38,lines
+LOC_Endpoint_transcript,0,45,lines
+LOC_Test_transcript,0,42,lines
+Unit_Tests_Passed,0,3,tests
+Unit_Tests_Failed,0,0,tests
+Execution_Time_ms,0,122.40,ms
+Preceding_Commit,5f501341d49d2bc3fa7e817ce7548a82174326eb,5f501341d49d2bc3fa7e817ce7548a82174326eb,sha
+Change_Commit,-,5f501341d49d2bc3fa7e817ce7548a82174326eb,sha
